@@ -67,13 +67,4 @@ function syncCharacterAmount(e) {
   characterAmountRange.value = value;
 }
 
-// function copyToClipboard() {
-//   const copyText = document.getElementById("passwordDisplay");
-//   copyText.select();
-//   copyText.setSelectionRange(0, 99999); 
 
-//   
-//   document.execCommand("copy");
-// }
-
-// copy.addEventListener("click", copyToClipboard());
